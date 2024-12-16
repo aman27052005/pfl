@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(178, 176, 178);
+    }
+    h1{
+    background-color:rgb(79, 153, 168);
+    text-align: center;
+    }
+    h2{
+    background-color:rgb(217, 22, 188);
+    }
+    h3{
+    text-underline-position: below;
+    }
